@@ -1,0 +1,14 @@
+# Chaves e credenciais: NUNCA versionar
+*.pem
+*.ppk
+*.key
+.aws/
+credentials
+.env
+*.rdp
+
+# Lixo de sistema/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
